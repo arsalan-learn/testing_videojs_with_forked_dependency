@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "video.js": "github:arsalanendor/video.js-forked"
+    "video.js": "github:arsalanendor/video.js-forked#8e9ffb102c7fa1d8d7ab92e69bf02e73a0b7163d"
   }
 }
